@@ -32,7 +32,7 @@
 └─$ cat about_me.txt
 
   Name     : Muhammad Usman
-  Role     : Cybersecurity Enthusiast & Web Developer
+  Role     : Cybersecurity Enthusiast 
   Status   : [ LEARNING ] Ethical Hacking & Penetration Testing
   Base     : Pakistan 🇵🇰
   Mission  : Securing the web, one vulnerability at a time.
