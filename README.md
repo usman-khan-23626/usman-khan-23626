@@ -1,81 +1,135 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+
+```
+██╗   ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗
+██║   ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║
+██║   ██║███████╗██╔████╔██║███████║██╔██╗ ██║
+██║   ██║╚════██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+╚██████╔╝███████║██║ ╚═╝ ██║██║  ██║██║ ╚████║
+ ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacker+in+Training+%F0%9F%92%BB;Network+Security+Explorer+%F0%9F%8C%90;CTF+Player+%7C+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
+
 </div>
 
-###
+---
 
 <div align="center">
-  <a href="mailto:usmankhanutmanziy1122@gamil.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61558062156652">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
+
+[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:usmankhanutmanziy1122@gamil.com)
+[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/profile.php?id=61558062156652)
+[![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=212C42&logoColor=white&labelColor=&style=for-the-badge)](https://tryhackme.com)
+
 </div>
 
-###
+---
 
-<h1 align="center">Hey there 👋 I'm Muhammad Usman</h1>
+## 👾 `whoami`
 
-###
+```bash
+┌──(usman㉿kali)-[~]
+└─$ cat about_me.txt
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work%20Culture/girl-working.gif" height="250" alt="coding animation"/>
-</div>
+  Name     : Muhammad Usman
+  Role     : Cybersecurity Enthusiast & Web Developer
+  Status   : [ LEARNING ] Ethical Hacking & Penetration Testing
+  Base     : Pakistan 🇵🇰
+  Mission  : Securing the web, one vulnerability at a time.
+```
 
-###
+---
 
-<h3 align="left">👩‍💻 About Me</h3>
+## 🎯 Current Objectives
 
-<p align="left">
-I'm Muhammad Usman, a passionate learner and future web developer.<br><br>
-- 🔭 I’m working on improving my development skills<br>
-- 📚 I'm currently learning HTML, CSS, JavaScript, Node.js, and Databases<br>
-- ⚡ In my free time, I practice coding and explore new technologies
-</p>
+```python
+targets = {
+    "learning"  : ["Ethical Hacking", "Network Security", "Web App Pentesting"],
+    "tools"     : ["Nmap", "Burp Suite", "Metasploit", "Wireshark"],
+    "certs"     : ["CompTIA Security+", "CEH", "eJPT"],
+    "practice"  : ["TryHackMe", "HackTheBox", "CTF Competitions"],
+    "background": ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB"]
+}
 
-###
+print("Hacking ethically. Building securely.")
+```
 
-<h3 align="left">🛠 Languages & Tools</h3>
+---
+
+## 🛡️ Security Toolkit
 
 <div align="left">
 
-<!-- HTML -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Tech%20Stack/html.gif" height="50" />
+<!-- Languages & Web -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- CSS -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Tech%20Stack/css.gif" height="50" />
+<!-- Security Tools -->
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-<!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Tech%20Stack/js.gif" height="50" />
-
-<!-- Node.js -->
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="50" />
-
-<!-- Express -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsa4nYeJ_N_ELjHboCFVL0ogYBYSU5UUwLeiGzAm4tD-bVglH0ixgYWNaSinfBaHZur68&usqp=CAU" height="50" />
-
-<!-- MongoDB -->
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*qyaxCo6SfKL6NcWD.gif" height="50" />
-
-<!-- Git -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Tech%20Stack/git.gif" height="50" />
-
-<!-- GitHub -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm0dFy16vUuu-5OmD7m5nboAyQPtQFP7jeMQ&s" height="50" />
-
-<!-- VS Code -->
-<img src="https://miro.medium.com/1*3Bow_AP-7Xu4Iqo8u33IyQ.gif" height="50" />
-
-<!-- Docker -->
-<img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" height="50" />
+<!-- DevTools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-###
+---
 
-<h3 align="left">🔥 My Stats</h3>
+## 🔍 Areas of Interest
+
+```
+╔══════════════════════════════════════════════════════╗
+║  🌐  Web Application Security & OWASP Top 10         ║
+║  🔓  Penetration Testing & Ethical Hacking           ║
+║  🕵️  OSINT & Reconnaissance                          ║
+║  🛡️  Network Security & Traffic Analysis             ║
+║  🐛  Bug Bounty Hunting                              ║
+║  🚩  Capture The Flag (CTF) Challenges               ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false" height="220" alt="streak graph"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="180" alt="streak graph"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00FF41" height="180" alt="stats graph"/>
+
+</div>
+
+---
+
+## 🚩 CTF & Learning Platforms
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ REMEMBER ] — With great power comes great responsibility.
+               Hack ethically. Stay curious. Keep learning.
+```
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+
 </div>
